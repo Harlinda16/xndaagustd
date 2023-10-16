@@ -1,7 +1,6 @@
 public class day6 {
 
 
-
     public static void main(String[] args) {
       
         short a = 4;
