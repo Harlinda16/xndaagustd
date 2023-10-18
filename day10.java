@@ -1,4 +1,4 @@
- public class day9 {
+ public class day10 {
     
 
     public static void main(String[] args) {
