@@ -13,6 +13,7 @@ public class day29 {
         
         
         System.out.println("Luas lahan : " + luas + " meter persegi");
+        System.out.println("Total lahan : "+kampling);
         System.out.println("harga permeter persegi : Rp. " +hargatanahpermeterpersegi);
         System.out.println("total harga lahan : Rp. " + harga);
     }
