@@ -2,13 +2,11 @@ import java.util.Scanner;
 
 public class day31  {
 	public static void main(String[] args) {
-	    
-		           String[] perlengkapansekolah = {"buku","pulpen","pensil","penghapus"};
-	    
-	    for(String perlengkapan : perlengkapansekolah ) {
+
+	String[] perlengkapansekolah = {"buku","pulpen","pensil","penghapus"};
+	      for(String perlengkapan : perlengkapansekolah ) {
 	        System.out.println(perlengkapan);
 	    }
-	    
 	    //variabel angka dan loop while
 	        int angka = 0;
 	    
